@@ -1,7 +1,7 @@
 # Peaceful CD to Dev server with CapRover, Docker and AWS
 
 This repository serves the following post on Medium:
-[Peaceful CD to Dev server with CapRover, Docker and AWS]().
+[Peaceful CD to Dev server with CapRover, Docker and AWS](https://medium.com/staminacake/peaceful-cd-to-dev-server-with-caprover-docker-and-aws-3b86b0bced41?sk=b637e2d34b360bace9943e253be4038e).
 
 ---
 
